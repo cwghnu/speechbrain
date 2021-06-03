@@ -1,0 +1,4 @@
+There are three test samples for SepFormer, including male-male, male-female, and female-female.
+
+*-mix.wav: the input mixture.
+*_out*.wav: the output of SpeFormer (8kHz).
